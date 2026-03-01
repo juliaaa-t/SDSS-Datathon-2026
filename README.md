@@ -5,3 +5,6 @@ Toronto is one of the most expensive cities in Canada, with individuals facing r
 
 ## Statement on Generative AI usage
 Some parts of the code were developed by ChatGPT and Gemini. The data cleaning and visualization parts were generated using LLMs.
+
+## Installation Instructions
+To replicate the analysis and run the code, you'll need to download the .xlsx file and install several Python packages. 
